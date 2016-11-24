@@ -1,3 +1,13 @@
 **/bin
 **/.classpath
 **/.project
+**/.gradle
+**/.settings
+**/bin
+**/.metadata
+**/.recommenders
+**/Debug
+**/.cproject
+**/*.stackdump
+**/RemoteSystemsTempFiles
+**/.swp
